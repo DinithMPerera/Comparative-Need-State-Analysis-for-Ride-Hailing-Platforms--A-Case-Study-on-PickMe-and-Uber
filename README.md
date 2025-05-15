@@ -70,7 +70,7 @@ The optimal number of clusters was determined to be **4**, each representing a d
 ---
 
 ## 📎 Appendix Links
-📊 Interactive Power BI Dashboard
+📊 [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljYzdhMWUtZDVjNS00ODVhLTlhOWYtOGJlZjliMjFkMjdlIiwidCI6IjlhNWI1NjkxLWE0NTEtNDllNy05M2RlLTljNjFjYjA0MzI4YiIsImMiOjEwfQ%3D%3D&pageName=8ab0c408e8729a0e6140)
 
 ---
 
